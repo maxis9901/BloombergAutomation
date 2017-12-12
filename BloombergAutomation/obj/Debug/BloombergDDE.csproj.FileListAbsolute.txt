@@ -1,0 +1,11 @@
+D:\Blog\BloombergDDE\BloombergDDE\bin\Debug\BloombergDDE.exe.config
+D:\Blog\BloombergDDE\BloombergDDE\obj\Debug\BloombergDDE.csprojResolveAssemblyReference.cache
+D:\Blog\BloombergDDE\BloombergDDE\obj\Debug\BloombergDDE.Properties.Resources.resources
+D:\Blog\BloombergDDE\BloombergDDE\obj\Debug\BloombergDDE.csproj.GenerateResource.Cache
+D:\Blog\BloombergDDE\BloombergDDE\bin\Debug\BloombergDDE.exe
+D:\Blog\BloombergDDE\BloombergDDE\bin\Debug\BloombergDDE.pdb
+D:\Blog\BloombergDDE\BloombergDDE\bin\Debug\NDde.dll
+D:\Blog\BloombergDDE\BloombergDDE\obj\Debug\BloombergDDE.exe
+D:\Blog\BloombergDDE\BloombergDDE\obj\Debug\BloombergDDE.pdb
+D:\Blog\BloombergDDE\BloombergDDE\obj\Debug\BloombergDDE.Forms.frmMainForm.resources
+D:\Blog\BloombergDDE\BloombergDDE\obj\Debug\BloombergDDE.Forms.frmDDE.resources
